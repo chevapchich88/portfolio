@@ -47,3 +47,6 @@ def draw_box_plot():
     axes[1].set_title('Month-wise Box Plot (Seasonality)')
     fig.savefig('box_plot.png')
     return fig
+draw_line_plot()
+draw_bar_plot()
+draw_box_plot()
