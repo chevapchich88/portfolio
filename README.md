@@ -1,6 +1,5 @@
 # portfolio
-## [Mean-Variance-Standard Deviation Calculator](portfolio
-/Mean-Variance-Standard Deviation Calculator/)
+## [Mean-Variance-Standard Deviation Calculator](portfolio/Mean-Variance-Standard%20Deviation%20Calculator)
 Преобразование разных типов данных и расчёт основных статистических показателей используя numpy.
 ## Demographic Data Analyzer
 Анализ демографических данных, их группировка, фильтрация и выявление закономерностей в разрезе заработной платы используя pandas.
