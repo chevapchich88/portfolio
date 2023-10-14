@@ -1,6 +1,7 @@
 import numpy as np
 
 def calculate(li):
+    li = [int(x) for x in li.split()]
     if len(li) != 9:
       raise ValueError("List must contain nine numbers.")
     ar = np.array(li).reshape((3,3))
@@ -12,3 +13,4 @@ def calculate(li):
     l_sum = list((list(ar.sum(axis = 0)), list(ar.sum(axis = 1)), ar.sum()))
     calculations = {'mean': l_mean, 'variance': l_var, 'standard deviation': l_std, 'max': l_max, 'min': l_min, 'sum': l_sum}
     return calculations
+calculate(input())
