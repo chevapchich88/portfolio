@@ -28,4 +28,4 @@ Min work time: 1 hours/week
 Percentage of rich among those who work fewest hours: 10.0%
 Country with highest percentage of rich: Iran
 Highest percentage of rich people in country: 41.9%
-Top occupations in India: Prof-specialty```
+Top occupations in India: Prof-specialty
