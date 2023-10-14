@@ -8,9 +8,11 @@
   7. Процент людей работающих минимальное количество часов при зарплате более 50 тысяч.
   8. Название страны и процент жителей, у которых зарплата больше 50 тысяч.
   9. Самая популярная проффессия среди тех, кто зарабатывает> 50 тысяч в Индии.
+
 Источник: adult.data.csv
+
 Пример вывода:
-Number of each race:
+```Number of each race:
  race
 White                 27816
 Black                  3124
@@ -26,4 +28,4 @@ Min work time: 1 hours/week
 Percentage of rich among those who work fewest hours: 10.0%
 Country with highest percentage of rich: Iran
 Highest percentage of rich people in country: 41.9%
-Top occupations in India: Prof-specialty
+Top occupations in India: Prof-specialty```
